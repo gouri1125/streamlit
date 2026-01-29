@@ -20,3 +20,9 @@ if predict:
 
     st.success(f"predicted species is: {prediction[0]}")
 
+st.balloons()
+st.snow()
+
+
+
+
